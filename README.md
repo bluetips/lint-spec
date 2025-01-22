@@ -1,6 +1,6 @@
 # lint-spec
 
- 前端编码规范工程化sjnjs
+ 前端编码规范工程化sjnjs改好xxx
 ## :mountain: 能力支持
 
 ### 1. 全面的前端生态
